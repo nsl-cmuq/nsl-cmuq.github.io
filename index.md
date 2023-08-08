@@ -3,7 +3,7 @@
 
 # nsl-cmuq's Website
 
-An engaging 1-3 sentence description of your lab.
+The Networking Systems Lab (NSL) was founded in 2009 and is directed by Prof. [Khaled Harras](https://www.qatar.cmu.edu/directory/khaled-harras/). Working with various collaborators, the NSL conducts research in many areas of Computer Networks and Systems. The lab follows an industry model to a large extent where members include Post-Doctoral Researchers, Full-time Research Engineers, and Graduate Students via Internships.
 
 {% include section.html %}
 
