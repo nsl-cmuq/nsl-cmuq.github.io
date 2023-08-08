@@ -1,13 +1,13 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Khaled Harras
+image: images/kharras.jpg
 role: pi
 aliases:
-  - J. Smith
-  - J Smith
+  - K. Harras
+  - K Harras
+  - Khaled Harras
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  google-scholar: V0UAZO0AAAAJ
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
