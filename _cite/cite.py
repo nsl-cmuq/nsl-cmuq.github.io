@@ -176,7 +176,7 @@ except Exception as e:
 
 # exit at end, so user can see all errors in one run
 if error:
-    log("Error(s) occurred above", level="ERROR")
+    log("Error(s) occurred above")
     exit(1)
 else:
     log("All done!", level="SUCCESS")
